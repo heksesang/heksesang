@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heksesang
 - 👀 I’m interested in functional programming
-- 🌱 I’m currently learning F# and haskell
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
